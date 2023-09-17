@@ -1,1 +1,1 @@
-config test
+use.name config test
