@@ -1,6 +1,1 @@
-# memo
-## memo
-* memo
-  * [memo](memo)
-git cloneにて、ローカルに落としてコミット。
-テスト
+config test
