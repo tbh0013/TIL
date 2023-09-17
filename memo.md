@@ -1,1 +1,1 @@
-use.name config test2
+test
