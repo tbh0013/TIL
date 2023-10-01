@@ -5,5 +5,5 @@
 
 ```
 $qb->addSelect('(CASE WHEN n.hoge IS NULL THEN 1 ELSE 0 END) AS HIDDEN hoge_null_sort')
-   ->addOrderBy('hoge_null_sort'**,** 'DESC')`
+   ->addOrderBy('hoge_null_sort', 'DESC')`
 ```
