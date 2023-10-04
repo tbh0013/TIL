@@ -27,5 +27,5 @@ $this->entityManager->persist($Product);
 $this->entityManager->flush();
 ```
 
-参考：EC-CUBE ProductController.php
+references：EC-CUBE ProductController.php
 https://github.com/EC-CUBE/ec-cube/blob/4.2/src/Eccube/Controller/ProductController.php
