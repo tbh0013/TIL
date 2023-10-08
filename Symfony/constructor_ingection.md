@@ -22,6 +22,6 @@ class PersonController extends AbstractController
     }
 ```
 
-
+参考記事：https://zenn.dev/miya_tech/articles/ed6570097d7673
 
 
